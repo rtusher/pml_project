@@ -6,4 +6,5 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 In this project, **THE GOAL**  will be to use data from **ACCELEROMETERS** on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. 
 
 
-###Read the report https://github.com/rtusher/pml_project/commits/master/Project_Report.pdf
+###Read the report in PDF 
+####https://github.com/rtusher/pml_project/blob/27bea84781674ba008ed8e31013b0eab95e935c8/Project_Report.pdf
